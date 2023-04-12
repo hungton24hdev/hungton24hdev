@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hungton24hdev
+- 👋 Hi, I’m TON THAT HUNG, from 24HDEV company
 - 👀 I’m interested in micro-frontend
 - 🌱 I’m currently learning micro-frontend with module federation
 
